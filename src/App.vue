@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="text-center">
     <h1>Word Translate</h1>
-    <h5>Powered by vue.js</h5>
+    <h5>Powered by vue.js (Samarth Bhan)</h5>
 
     <TranslateForm @formSubmit="onFormSubmit"></TranslateForm>
     
